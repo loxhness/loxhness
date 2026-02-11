@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi, I’m Uzair 👋
 
-<!--
-**loxhness/loxhness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer focused on backend systems, production reliability, and scalable application design.
 
-Here are some ideas to get you started:
+I enjoy building tools and services that solve real problems — from concurrent backend systems in Go to full-stack applications that run in production environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I work on
+
+- Backend services in **Go**, Python, and C#
+- REST APIs and distributed systems
+- Cloud deployments on Azure and AWS
+- Automation and internal tooling
+- Full-stack web applications with React + TypeScript
+- Observability, logging, and system reliability
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:**  
+Go • Python • C# • JavaScript/TypeScript • SQL
+
+**Frameworks:**  
+React • Node.js • Express • Flask • .NET
+
+**Tools:**  
+Docker • Git • CI/CD • Linux • REST APIs
+
+**Cloud:**  
+Azure • AWS
+
+---
+
+## 📌 Featured Projects
+
+### 🔍 LogLens
+High-performance log analysis tool built in Go using concurrency patterns for real-time processing.
+
+→ https://github.com/loxhness/LogLens
+
+### 🍽 TopDish
+Full-stack social food discovery app with real-time updates and scalable architecture.
+
+→ https://github.com/loxhness/TopDish
+
+---
+
+## 🎯 What I care about
+
+- Writing reliable, maintainable software
+- Designing systems that scale
+- Clean architecture and code quality
+- Learning new languages and tools quickly
+- Building production-ready software
+
+---
+
+## 📫 Contact
+
+Portfolio: https://uzi-portfolio.vercel.app/  
+Email: uzisuboor@hotmail.co.uk
+
+---
+
+⭐ Always open to learning, collaboration, and new opportunities.
