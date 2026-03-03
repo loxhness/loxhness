@@ -43,7 +43,7 @@ High-performance log analysis tool built in Go using concurrency patterns for re
 ### 🍽 TopDish
 Full-stack social food discovery app with real-time updates and scalable architecture.
 
-→ https://github.com/loxhness/TopDish
+→ https://blue-beach-0dd302e10.2.azurestaticapps.net/
 
 ---
 
