@@ -86,8 +86,8 @@ Next.js 15 + Supabase app with family-based login, per-event RSVP tracking, an a
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=loxhness&show_icons=true&theme=radical&count_private=true" alt="Uzair's GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loxhness&layout=compact&theme=radical" alt="Top languages" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api?username=loxhness&show_icons=true&theme=radical" alt="Uzair's GitHub stats" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=loxhness&layout=compact&theme=radical" alt="Top languages" height="170" />
 </p>
 
 <p align="center">⭐ Always open to learning, collaboration, and new opportunities.</p>
